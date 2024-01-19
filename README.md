@@ -1,3 +1,4 @@
+![logo](https://github.com/VatsalSharma77/VatsalSharma77/blob/main/canva-background.jpeg)
 <h1 align="center">Hi 👋, I'm Vatsal Sharma</h1>
 <h3 align="center">Afrontend enthusiast with a knack for crafting delightful user experiences using React. I spend my days turning coffee into code and bringing designs to life.</h3>
 
