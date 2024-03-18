@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://vatsal-sharma-portfolio.netlify.app/](https://vatsal-sharma-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-ecru-delta.vercel.app/](https://portfolio-website-ecru-delta.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS and JS**
 
 - 📫 How to reach me **vatsalsharma0217@gmail.com**
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/dashboard/profile/?resumeId=65688ae81f9bbf58f4a3eefa&profileId=self&](https://test-resume.masaischool.com/dashboard/profile/?resumeId=65688ae81f9bbf58f4a3eefa&profileId=self&)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GOWo4jPv12Z14N5ejYn59FkZkgkhMQ3F/view?usp=sharing](https://drive.google.com/file/d/1GOWo4jPv12Z14N5ejYn59FkZkgkhMQ3F/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sketch 🎨**
 
