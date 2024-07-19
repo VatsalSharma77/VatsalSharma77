@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://667190e4c693060077949b15--reliable-souffle-0d2316.netlify.app/](https://667190e4c693060077949b15--reliable-souffle-0d2316.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vatsal-sharma-portfolio0217.netlify.app/](https://vatsal-sharma-portfolio0217.netlify.app/)
 
 - 💬 Ask me about **react, node, JS etc.**
 
