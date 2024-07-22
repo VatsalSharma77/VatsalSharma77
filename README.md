@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://vatsalsharma-portfolio.netlify.app/](https://vatsalsharma-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vatsal-sharma-portfolio10.netlify.app/](https://vatsal-sharma-portfolio10.netlify.app/)
 
 - 💬 Ask me about **react, node, JS etc.**
 
 - 📫 How to reach me **vatsalsharma0217@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U70GK_G_HmMz8UkjXON8wqAhBbTA4li9/view?usp=sharing](https://drive.google.com/file/d/1U70GK_G_HmMz8UkjXON8wqAhBbTA4li9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19FwKjgZk9Sq6d1TLvCm2gFLXA_Bt91ok/view?usp=sharing](https://drive.google.com/file/d/19FwKjgZk9Sq6d1TLvCm2gFLXA_Bt91ok/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a Sketch Artist 🎨✏️**
 
